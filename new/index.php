@@ -12,7 +12,7 @@
   <body>
       <div class="jumbotron jumbotron-fluid">
           <div class="container">
-              <h1 class="display-3">Fluid jumbo heading</h1>
+              <h1 class="display-3">Fluid jumbo heading new.......</h1>
               <p class="lead">Jumbo helper text</p>
               <hr class="my-2">
               <p>More info</p>
